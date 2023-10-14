@@ -1,0 +1,16 @@
+<!-- res/menu/menu_main.xml -->
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_ver_recetas"
+        android:title="Ver Recetas"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_agregar_receta"
+        android:title="Agregar Receta"
+        app:showAsAction="ifRoom"/>
+
+</menu>
